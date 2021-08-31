@@ -1,0 +1,380 @@
+/* for extra small divice */
+@media (max-width: 575px) {
+
+    .navbar-light .navbar-toggler {
+        border-color: #fcb100;
+    }
+    .navbar-light .navbar-toggler span {
+        color: #fcb100;
+    }
+    .navbar .navbar-brand img {
+        width: 60% !important;
+        margin-top: -15px!important;
+    }
+    #banner {
+        padding-bottom: 190px!important;
+    }
+    #banner .banner-text h6{
+        margin-top: 20px!important;
+        text-align: center;
+    }
+    #banner .banner-text h1{
+        margin-top: -10px!important;
+        margin-left: 30%;
+        font-size: 80px!important;
+        padding-bottom: 20px;
+    }
+    #banner .banner-img img {
+        position: static !important;
+    }
+    #banner .banner-text .play-btn a,
+    #game .game-item .ovarley a,
+    #spin .spin-text .spin-btn a,
+    #plan .plan-item .item-btn a
+    {
+        font-size: 14px !important;
+    }
+    #game,#spin,#plan{
+        padding-bottom: 60px!important;
+    }
+    #spin,#plan {
+        padding-top: 60px!important;
+    }
+
+    #game .game-details .game-text h3 {
+        font-size: 30px!important;
+        padding-bottom: 0!important;
+    }
+    #game .game-details .game-text h4{
+        font-size: 18px!important;
+    }
+    #game .game-details .game-text p{
+        font-size: 14px !important;
+    }
+    #game .game-heading h3{
+        font-size: 30px!important;
+        text-align: center;
+        margin-top: -65px!important;
+    }
+    #game .game-item{
+        margin-top: 10px!important;
+    }
+    #game .game-item .ovarley h4{
+        padding-top: 100px!important;
+    }
+    #spin .spin-text h3 {
+        font-size: 30px!important;
+        padding-bottom: 10px!important;
+    }
+    #spin .spin-text p.small{
+        padding-bottom: 10px!important;
+    }
+    #plan .plan-heading h3{
+        font-size: 30px !important;
+        text-align: center;
+    }
+    #plan .plan-item{
+        padding-bottom: 30px!important;
+    }
+    #plan .plan-item .item-quality h4{
+        font-size: 25px!important;
+        padding-top: 20px!important;
+    }
+    #plan .plan-item .item-quality h3{
+        font-size: 30px!important;
+    }
+    #plan .plan-item .item-details ul{
+        margin-top: 15px!important;
+    }
+    #plan .plan-item .item-btn {
+        bottom: -10px !important;
+        left: 30% !important;
+    }
+    #details #accordionExample .accordion-button i{
+        right: 20px!important;
+    }
+    #details .details-head-left h3,
+    #details .details-head-right h3{
+        text-align: center;
+        font-size: 28px!important;
+    }
+
+@keyframes effect-left!important{
+    0%{
+        left: -3px;
+    }
+    100%{
+        left: 75%;
+    } 
+}
+    #details .details-content .details-item .item-title h4{
+        font-size: 13px!important;
+    }
+    #details .details-content .details-item .item-title .icon i{
+        font-size: 20px!important;
+    }
+    #details .details-content .time-part h4{
+        text-align: center;
+    }
+    #details .details-content .time-part .countdown {
+        margin-bottom: 10px !important;
+    }
+    #payment .frm form input {
+        width: 80%!important;
+        margin-bottom: 15px;
+    }
+}
+
+/* for small divice */
+@media (min-width:576px) and (max-width:767px) {
+    .navbar-light .navbar-toggler {
+        border-color: #fcb100;
+    }
+    .navbar-light .navbar-toggler span {
+        color: #fcb100;
+    }
+    .navbar .navbar-brand img {
+        width: 60% !important;
+        margin-top: -15px!important;
+    }
+    #banner {
+        padding-bottom: 190px!important;
+    }
+    #banner .banner-text h6{
+        margin-top: 20px!important;
+        text-align: center;
+    }
+    #banner .banner-text h1{
+        margin-top: -10px!important;
+        margin-left: 30%;
+        font-size: 80px!important;
+        padding-bottom: 20px;
+    }
+    #banner .banner-img img {
+        position: static !important;
+    }
+    #banner .banner-text .play-btn a,
+    #game .game-item .ovarley a,
+    #spin .spin-text .spin-btn a,
+    #plan .plan-item .item-btn a
+    {
+        font-size: 14px !important;
+    }
+
+    #spin .spin-text h3{
+        padding-top: 0!important;
+    }
+    #spin .spin-text p.larg{
+        font-size: 13px!important;
+        padding-bottom: 0!important;
+    }
+    #spin .spin-text p.small{
+        font-size: 13px!important;
+    }
+    #game,#spin,#plan{
+        padding-bottom: 60px!important;
+    }
+    #spin,#plan {
+        padding-top: 60px!important;
+    }
+
+    #game .game-details .game-text h3 {
+        font-size: 30px!important;
+        padding-bottom: 0!important;
+    }
+    #game .game-details .game-text h4{
+        font-size: 18px!important;
+    }
+    #game .game-details .game-text p{
+        font-size: 14px !important;
+    }
+    #game .game-heading h3{
+        font-size: 30px!important;
+        text-align: center;
+        margin-top: -65px!important;
+    }
+    #game .game-item{
+        margin-top: 10px!important;
+    }
+    #game .game-item .ovarley h4{
+        padding-top: 100px!important;
+    }
+    #spin .spin-text h3 {
+        font-size: 30px!important;
+        padding-bottom: 10px!important;
+    }
+    #spin .spin-text p.small{
+        padding-bottom: 10px!important;
+    }
+    #plan .plan-heading h3{
+        font-size: 30px !important;
+        text-align: center;
+    }
+    #plan .plan-item{
+        padding-bottom: 30px!important;
+    }
+    #plan .plan-item .item-quality h4{
+        font-size: 25px!important;
+        padding-top: 20px!important;
+    }
+    #plan .plan-item .item-quality h3{
+        font-size: 30px!important;
+    }
+    #plan .plan-item .item-details ul{
+        margin-top: 15px!important;
+    }
+    #plan .plan-item .item-btn {
+        bottom: -10px !important;
+        left: 26% !important;
+    }
+    #details .details-head-left h3,
+    #details .details-head-right h3{
+        font-size: 30px!important;
+    }
+    #details .details-head-right h3{
+        padding-top: 20px;
+        text-align: center;
+    }
+
+    #details .details-head-left h3{
+        text-align: center;
+    }
+    #details .details-content .details-item .item-title h4{
+        font-size: 20px!important;
+    }
+    #details .details-content .details-item .item-title .icon i{
+        font-size: 20px!important;
+    }
+    #details .details-content .time-part .countdown {
+        margin-bottom: 10px !important;
+    }
+    #payment .frm form input {
+        width: 80%!important;
+        margin-bottom: 15px;
+    }
+}
+
+/* for medium divice */
+@media (min-width:768px) and (max-width:991px) {
+    .navbar-light .navbar-toggler {
+        border-color: #fcb100;
+    }
+    .navbar-light .navbar-toggler span {
+        color: #fcb100;
+    }
+    .navbar .navbar-brand img {
+        width: 60% !important;
+        margin-top: -15px!important;
+    }
+    #banner {
+        padding-bottom: 190px!important;
+    }
+    #banner .banner-text h6{
+        margin-top: 20px!important;
+        text-align: center;
+    }
+    #banner .banner-text h1{
+        margin-top: -10px!important;
+        margin-left: 30%;
+        font-size: 80px!important;
+        padding-bottom: 20px;
+    }
+    #banner .banner-img img {
+        position: static !important;
+    }
+    #banner .banner-text .play-btn a,
+    #game .game-item .ovarley a,
+    #spin .spin-text .spin-btn a,
+    #plan .plan-item .item-btn a
+    {
+        font-size: 14px !important;
+    }
+
+    #spin .spin-text h3{
+        padding-top: 0!important;
+    }
+    #spin .spin-text p.larg{
+        font-size: 14px!important;
+        padding-bottom: 0!important;
+    }
+    #spin .spin-text p.small{
+        font-size: 14px!important;
+    }
+    #game,#spin,#plan{
+        padding-bottom: 60px!important;
+    }
+    #spin,#plan {
+        padding-top: 60px!important;
+    }
+
+    #game .game-details .game-text h3 {
+        font-size: 30px!important;
+        padding-bottom: 0!important;
+    }
+    #game .game-details .game-text h4{
+        font-size: 18px!important;
+    }
+    #game .game-details .game-text p{
+        font-size: 14px !important;
+    }
+    #game .game-heading h3{
+        font-size: 30px!important;
+        text-align: center;
+        margin-top: -65px!important;
+    }
+    #game .game-item{
+        margin-top: 10px!important;
+    }
+    #game .game-item .ovarley h4{
+        padding-top: 100px!important;
+    }
+    #spin .spin-text h3 {
+        font-size: 30px!important;
+        padding-bottom: 10px!important;
+    }
+    #spin .spin-text p.small{
+        padding-bottom: 10px!important;
+    }
+    #plan .plan-heading h3{
+        font-size: 30px !important;
+        text-align: center;
+    }
+    #plan .plan-item{
+        padding-bottom: 30px!important;
+    }
+    #plan .plan-item .item-quality h4{
+        font-size: 25px!important;
+        padding-top: 20px!important;
+    }
+    #plan .plan-item .item-quality h3{
+        font-size: 30px!important;
+    }
+    #plan .plan-item .item-details ul{
+        margin-top: 15px!important;
+    }
+    #plan .plan-item .item-btn {
+        bottom: -10px !important;
+        left: 30% !important;
+    }
+    #details #accordionExample .accordion-button i{
+        right: 15px!important;
+    }
+    #details .details-head-left h3,
+    #details .details-head-right h3{
+        font-size: 30px!important;
+    }
+    #details .details-content .details-item .item-title h4{
+        font-size: 20px!important;
+    }
+    #details .details-content .details-item .item-title .icon i{
+        font-size: 20px!important;
+    }
+    #details .details-content .time-part .countdown {
+        margin-bottom: 10px !important;
+    }
+    #payment .frm form input {
+        width: 80%!important;
+        margin-bottom: 15px;
+    }
+}
+
